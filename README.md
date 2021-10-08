@@ -15,6 +15,11 @@
 </div>
 
 
+
+
+https://heroku.com/deploy?template=https://github.com/exindo/RUN-HEROKU
+
+
 ### Install ⬇️
 
 ```bash
